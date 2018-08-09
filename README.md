@@ -14,5 +14,6 @@ Modify `config.php` to make some changes. You can use it outside with another UR
 `$INT_BASEURL` means the SYZOJ home page's URL in the internal network. `$EXT_BASEURL` means the one in the public network.  
 Please change `$contest` to your contest ID. And change `$ids` array according to your problems' filename and real index in the problem set.  
 
+You can configure SYZOJ-Web to listen on `127.0.0.1` and use this utility to submit. It's recommended to avoid cheating by this way.
 ### License
 AGPL-3.0.  
