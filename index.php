@@ -45,7 +45,7 @@
     window.setInterval('check_login()', 10000); 
   </script>
   <div style="position: absolute; bottom: 0;">
-    <b>Online Judge by <a href="https://men.ci/">Menci</a> & Code Submitter by <a href="https://imvictor.tech/">Victor_Huang</a>.</b>
+    <b>Online Judge by <a href="https://men.ci/">Menci</a> & Code Submitter by <a href="https://imvictor.tech/">Victor_Huang</a>, <a href="https://github.com/SDLYYZ/Code-Submitter">GitHub Repository</a>.</b>
   </div>
 </body>
 </html>
